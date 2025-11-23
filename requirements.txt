@@ -1,5 +1,2 @@
 streamlit
-joblib
 numpy
-sys
-pip
